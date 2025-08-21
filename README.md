@@ -1,6 +1,6 @@
 # Breast Cancer Prediction with Machine Learning
 
-A machine learning project that predicts breast cancer diagnosis (malignant or benign) using the Wisconsin Breast Cancer Dataset and logistic regression.
+A machine learning project that predicts breast cancer diagnosis (malignant or benign) using the Wisconsin Breast Cancer Dataset and logistic regression with %96 accuracy.
 
 ##  Project Overview
 
