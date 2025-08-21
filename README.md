@@ -27,7 +27,7 @@ To build a predictive model that can accurately classify breast cancer tumors as
 **Target Variable**: 
 - `diagnosis`: M (Malignant) or B (Benign)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.x**
 - **Libraries**:
