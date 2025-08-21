@@ -140,4 +140,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note**: Remember to keep your Kaggle API credentials secure and never commit them to public repositories.
+**Note**: Remember to keep your Kaggle API credentials secure and never commit them to public repositories - hence why they are placeholders. Please see the guide on Kaggle.com to create your own API token.
