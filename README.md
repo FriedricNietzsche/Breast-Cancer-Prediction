@@ -2,7 +2,7 @@
 
 A machine learning project that predicts breast cancer diagnosis (malignant or benign) using the Wisconsin Breast Cancer Dataset and logistic regression.
 
-## 📊 Project Overview
+##  Project Overview
 
 This project demonstrates the complete machine learning pipeline for binary classification:
 - Data acquisition from Kaggle
@@ -11,11 +11,11 @@ This project demonstrates the complete machine learning pipeline for binary clas
 - Model training with logistic regression
 - Performance evaluation with confusion matrix and accuracy metrics
 
-## 🎯 Objective
+##  Objective
 
 To build a predictive model that can accurately classify breast cancer tumors as malignant (M) or benign (B) based on features computed from digitized images of breast mass.
 
-## 📈 Dataset
+##  Dataset
 
 **Source**: [Wisconsin Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) from Kaggle
 
@@ -38,7 +38,7 @@ To build a predictive model that can accurately classify breast cancer tumors as
   - `scikit-learn` - Machine learning algorithms and tools
   - `kagglehub` - Kaggle dataset download
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -62,14 +62,14 @@ pip install pandas numpy seaborn matplotlib scikit-learn kagglehub
 3. Run all cells sequentially
 4. The notebook will automatically download the dataset and train the model
 
-## 📋 Project Structure
+##  Project Structure
 
 ```
 breast_cancer_prediction.ipynb    # Main Jupyter notebook
 README.md                        # Project documentation
 ```
 
-## 🔄 Workflow
+##  Workflow
 
 1. **Data Acquisition**: Download dataset from Kaggle using kagglehub
 2. **Data Loading**: Load data into pandas DataFrame
